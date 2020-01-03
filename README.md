@@ -5,6 +5,8 @@
 
 <br><br>
 
+![](pointers.gif)
+
 ### ✨ [Demo](https://pointers.now.sh)
 
 ## Author
