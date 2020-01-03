@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Custom pointers 👋</h1>
 <p align="center">
-	Use custom pointers on hover in your website  
+	<strong>Use custom pointers on hover in your website</strong>
 </p>
 
 <br><br>
