@@ -5,11 +5,9 @@
   </a>
 </p>
 
-> Use custom pointers on hover in your website
+<h1 align="center">Use custom pointers on hover in your website</h1>
 
-### 🏠 [Homepage](https://pointers.now.sh)
-
-### ✨ [Demo](https://pointers.now.sh)
+<center>### ✨ [Demo](https://pointers.now.sh)<center>
 
 ## Author
 
