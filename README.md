@@ -1,13 +1,11 @@
 <h1 align="center">Welcome to Custom pointers 👋</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
+<p align="center">
+	Use custom pointers on hover in your website  
 </p>
 
-<h1 align="center">Use custom pointers on hover in your website</h1>
+<br><br>
 
-<center>### ✨ [Demo](https://pointers.now.sh)<center>
+### ✨ [Demo](https://pointers.now.sh)
 
 ## Author
 
